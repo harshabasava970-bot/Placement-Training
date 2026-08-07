@@ -11,3 +11,4 @@ class no1{
         System.out.println("Sum of Natural Numbers: "+ sum);
     }
 }
+/
