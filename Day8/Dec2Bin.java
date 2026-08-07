@@ -29,3 +29,4 @@ public class Dec2Bin {
 		System.out.println("Binary is : " + binary);
 	}
 }
+/
