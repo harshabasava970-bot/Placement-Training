@@ -18,3 +18,4 @@ class array1 {
         sc.close();
     }
 }
+/
